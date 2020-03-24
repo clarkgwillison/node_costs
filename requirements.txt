@@ -1,5 +1,5 @@
 appnope==0.1.0
-bleach==2.1.1
+bleach==3.1.2
 certifi==2017.11.5
 chardet==3.0.4
 decorator==4.1.2
@@ -48,7 +48,7 @@ wcwidth==0.1.7
 webencodings==0.5.1
 widgetsnbextension==3.0.8
 appnope==0.1.0
-bleach==2.1.1
+bleach==3.1.2
 certifi==2017.11.5
 chardet==3.0.4
 cycler==0.10.0
